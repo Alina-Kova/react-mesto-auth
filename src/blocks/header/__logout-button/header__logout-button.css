@@ -1,0 +1,27 @@
+.header__logout-button {
+    border: 1px solid red;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: right;
+    color: #A9A9A9;
+    margin-bottom: 33px;
+    margin-right: 30px;
+    cursor: pointer;
+    text-decoration: none;
+    /* transition: opacity 0.1s linear; */
+}
+
+.header__logout-button:hover {
+    opacity: 0.6;
+}
+
+@media screen and (min-width: 1280px) {
+    .header__logout-button {
+        border: 1px solid red;
+        margin-bottom: 46px;
+        font-size: 18px;
+        line-height: 22px;
+        margin-right: 0;
+    }
+}

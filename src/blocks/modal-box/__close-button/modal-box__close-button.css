@@ -9,7 +9,7 @@
     position: relative;
     display: flex;
     top: 0;
-    right: -130px;
+    right: 0px;
     cursor: pointer;
     border: 0;
     outline: none;
@@ -18,7 +18,7 @@
 
 @media screen and (min-width: 1280px) {
     .modal-box__close-button {
-        right: -230px;
+        right: -225px;
         width: 40px;
         height: 40px;
     }

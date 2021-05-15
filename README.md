@@ -20,7 +20,3 @@
 ### Запуск проекта осуществляется по команде:
 
     npm run start
-
-### Cсылка на проект на GitHubPages:
-
-https://alina-kova.github.io/mesto-react/

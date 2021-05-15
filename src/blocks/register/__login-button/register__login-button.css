@@ -1,4 +1,4 @@
-.header__button {
+.register__login-button {
     font-weight: normal;
     font-size: 14px;
     line-height: 17px;
@@ -8,17 +8,9 @@
     margin-right: 30px;
     cursor: pointer;
     text-decoration: none;
+    margin: 0;
 }
 
-.header__button:hover {
+.register__login-button:hover {
     opacity: 0.6;
-}
-
-@media screen and (min-width: 1280px) {
-    .header__button {
-        margin-bottom: 46px;
-        font-size: 18px;
-        line-height: 22px;
-        margin-right: 0;
-    }
 }
